@@ -15,7 +15,7 @@ This project demonstrates the implementation of six design patterns in Java acro
 - 5.Decorator Pattern: Allows adding new functionalities to individual objects dynamically without altering their structure, shown through CloudStorageService enhancing BasicCloudStorage with compression features.
 - 6.Proxy Pattern: Acts as a surrogate for another object to control access, exemplified by PaymentProxy managing access to the RealPayment class for operations like logging and validation.
 
-To get started with this project, clone the repository and import it into your favorite Java IDE (e.g., IntelliJ IDEA or Eclipse).
+To get started with this project, clone the repository and import it into your favorite Java IDE .
 
 ## Project Structure:
 
@@ -56,4 +56,4 @@ To get started with this project, clone the repository and import it into your f
 
 ## Prerequisites
 Java Development Kit (JDK) 8 or later.
-An IDE that supports Java (e.g., IntelliJ IDEA, Eclipse).
+
