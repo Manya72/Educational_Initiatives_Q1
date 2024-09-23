@@ -20,18 +20,18 @@ To get started with this project, clone the repository and import it into your f
 ## Project Structure:
 
 - Educational_Initiatives_q1/
-  - behavioral/
-    - MementoPattern/
-      - Caretaker.java
-      - TextEditor.java
-      - MementoPatternExample.java
-      - Memento.java
-    - ObserverPattern/
-      - MobileDisplay.java
-      - Observer.java
-      - ObserverPatternDemo.java
-      - WeatherStation.java
- - creational/
+- behavioral/
+  - MementoPattern/
+    - Caretaker.java
+    - TextEditor.java
+    - MementoPatternExample.java
+    - Memento.java
+  - ObserverPattern/
+    - MobileDisplay.java
+    - Observer.java
+    - ObserverPatternDemo.java
+    - WeatherStation.java
+- creational/
     - FactoryPattern/
       - BankAccount.java
       - BankAccountFactory.java
