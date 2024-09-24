@@ -1,4 +1,4 @@
-## [Please Find my Exercise 2 Solution here ](https://github.com/Manya72/Ei-assignment_Q2)
+## [Please Click here for my Exercise 2 Solution  ](https://github.com/Manya72/Ei-assignment_Q2)
 ## Design Patterns in Java
 This project demonstrates the implementation of six design patterns in Java across three categories: Behavioral, Creational, and Structural. It showcases common programming solutions that promote flexibility, reuse, and maintainability.
 
